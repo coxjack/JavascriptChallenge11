@@ -13,43 +13,42 @@ Challenge 11 for Butler Data Science
 	- Date Search
 	  - If a user wants to search only by date, they only need to enter a date in the Enter Date portion of the filter table using the format M/DD/YYY.
 
-![Date Search]()
+![Date Search](https://github.com/coxjack/JavascriptChallenge11/blob/main/AdditonalSupportingImages/DateSearch.png)
 
 	- City Search
 	  - If a user wants to search only by city, they only need to enter a city name in the Enter City portion of the filter table in lowercase letters.
 
-![City Search]()
+![City Search](https://github.com/coxjack/JavascriptChallenge11/blob/main/AdditonalSupportingImages/CitySearch.png)
 
 	- State Search
 	  - If a user wants to search only by state, they only need to enter the 2 letter state abbreviation in the Enter State portion of the filter table in lowercase letters.
 
-![State Search]()
-
+![State Search](https://github.com/coxjack/JavascriptChallenge11/blob/main/AdditonalSupportingImages/StateSearch.png)
 
 	- Country Search
 	  - If a user wants to search only by county, they only need to enter the 2 letter country abbreviation in the Enter Country portion of the filter table in lowercase letters. At this time though, the dataset only contains data from the US and Canada.
 
-![Country Search]()
+![Country Search](https://github.com/coxjack/JavascriptChallenge11/blob/main/AdditonalSupportingImages/CountrySearch.png)
 
 	- Shape Search
 	  - If a user wants to search only by shape of sighting, they only need to enter the desired shape of the sighting in the Enter Shape portion of the filter table in lowercase letters.
 
-![Shape Search]()
+![Shape Search](https://github.com/coxjack/JavascriptChallenge11/blob/main/AdditonalSupportingImages/ShapeSearch.png)
 	
 	- Multiple Search
 	  - If a user wants to search by more than one criteria they just need to follow the above rules for each category and the data will filter simultaneously.
 
-![Multiple Search]()
+![Multiple Search](https://github.com/coxjack/JavascriptChallenge11/blob/main/AdditonalSupportingImages/MultipleSearch.png)
 
 	- All Category Search
 	  - If a user wants to search by all criteria they just need to follow the above rules for each category and the data will filter simultaneously.
 
-![All Search]()
+![All Search](https://github.com/coxjack/JavascriptChallenge11/blob/main/AdditonalSupportingImages/AllSearch.png)
 
 	- Reset Search
 	  - To reset the data and start a new search the user just needs to click the "UFO Sightings" button on the top left of the page.
 
-![Reset]()
+![Reset](https://github.com/coxjack/JavascriptChallenge11/blob/main/AdditonalSupportingImages/Reset.png)
 
 ## 3. Summary
 ### 
